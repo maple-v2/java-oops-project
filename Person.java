@@ -2,7 +2,7 @@
 /**
  * Just individual with attributes of name, ID, and date of birth.
  *
- * @author Ali Amer 211614136
+ * @author Ali Amer 
  * @version 01/09/2024
  */
 public class Person
